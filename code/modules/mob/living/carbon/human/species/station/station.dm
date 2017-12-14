@@ -130,6 +130,22 @@
 	H.equip_to_slot_or_del(new /obj/item/clothing/shoes/sandal(H),slot_shoes)
 
 /datum/species/tajaran
+
+
+
+
+
+
+
+	flags = CAN_NAB
+
+
+
+
+
+
+
+
 	name = "Tajara"
 	name_plural = "Tajaran"
 	icobase = 'icons/mob/human_races/r_tajaran.dmi'
